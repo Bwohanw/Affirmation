@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: "Quicksand", sans-serif;
+}
+
+body {
+    margin: 0px !important;
+    background-color: #2E8BC0;
+    border-radius: 5px;
+}
+
+.container {
+    width:20rem;
+    height:20rem;
+}
+
+.title {
+    padding:5rem;
+}
+
+.buttons {
+    height:10rem;
+    width:100%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.button {
+    width:6rem;
+    margin-bottom: 2rem;
+    color:#fc94af;
+    background-color:#f5f5dd;
+}
